@@ -55,7 +55,6 @@
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/mvcScraper.RazorCoreGenerate.cache
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs
-/Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Home/Privacy.cshtml.g.cs
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
@@ -68,3 +67,4 @@
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/mvcScraper.csproj.CopyComplete
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/mvcScraper.dll
 /Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/mvcScraper.pdb
+/Users/danchoiniere/careerDevs/capstoneProjects/mvcScraper/mvcScraper/obj/Debug/netcoreapp3.0/Razor/Views/Home/About.cshtml.g.cs
