@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcScraper", "mvcScraper\mvcScraper.csproj", "{30E1BB3B-1EAC-4FAB-9CD6-0E5AA992DABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockData", "StockData\StockData.csproj", "{496474EE-F3C7-4786-8977-D3C1D0DC48D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{30E1BB3B-1EAC-4FAB-9CD6-0E5AA992DABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E1BB3B-1EAC-4FAB-9CD6-0E5AA992DABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E1BB3B-1EAC-4FAB-9CD6-0E5AA992DABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496474EE-F3C7-4786-8977-D3C1D0DC48D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496474EE-F3C7-4786-8977-D3C1D0DC48D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496474EE-F3C7-4786-8977-D3C1D0DC48D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496474EE-F3C7-4786-8977-D3C1D0DC48D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
