@@ -1,0 +1,13 @@
+November 22, 2019
+
+I have been sick for the past few days so have not been able to focus and get any work done on Phase3 until today.
+
+Considering I am not familiar with Razor Pages, cshtml I am going to do a walk through on the Microsoft docs page.
+
+After completing the Razor tutorial I am going to go through a tutorial on the MVC app design process.  
+
+If I have time after the two tutorials I will start ti implement what I have learned into the MVC base scaffold that is given.
+
+Deal with authentication.
+
+Get my database linked.
